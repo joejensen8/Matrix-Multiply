@@ -1,0 +1,18 @@
+Running Slurm Script for mm1
+Starting mm1.c
+Testing MM on array size [1000]
+Time to multiply (sec): [7.850000]
+
+Testing MM on array size [2000]
+Time to multiply (sec): [68.690000]
+
+Testing MM on array size [3000]
+Time to multiply (sec): [269.520000]
+
+Testing MM on array size [4000]
+Time to multiply (sec): [700.650000]
+
+Testing MM on array size [5000]
+Time to multiply (sec): [1547.730000]
+
+Finished mm1.c
